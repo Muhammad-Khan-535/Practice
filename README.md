@@ -1,2 +1,3 @@
 # Practice
-Learning the GitHub
+Learning the GitHub.
+Author - Muhammad Khan
